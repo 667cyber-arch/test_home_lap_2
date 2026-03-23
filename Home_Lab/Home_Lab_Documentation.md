@@ -143,8 +143,8 @@ This lab consists of three primary systems connected in a monitored inline confi
 ```
 
 <p align="center">
-<a href="Home_Lab/Network_Diagram\Network_diagram.png">
-<img src="Home_Lab/Network_Diagram\Network_diagram.png" width="700">
+<a href="Network_Diagram\Network_diagram.png">
+<img src="Network_Diagram\Network_diagram.png" width="700">
 </a>
 </p>
 
