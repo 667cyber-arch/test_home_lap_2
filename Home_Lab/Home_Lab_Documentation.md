@@ -354,8 +354,8 @@ The laptop is physically connected to the HP ZBook (Detector) via Ethernet for f
 - **Windows Event Logs:** Captures authentication events (success/failure).
 
 <p align="center">
-<a href="Screenshots\Sysmon_logs_victim.png">
-<img src="Screenshots\Sysmon_logs_victim.png" width="700">
+<a href="Screenshots\Sysmon_logs _victim.png">
+<img src="Screenshots\Sysmon_logs _victim.png" width="700">
 </a>
 </p>
 
