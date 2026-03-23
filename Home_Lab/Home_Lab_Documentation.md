@@ -309,8 +309,8 @@ By implementing a **physical Ethernet bridge**, it acts as a **transparent inlin
 **Goal:** Ensure the monitoring node remains secure during the simulation  
 
 <p align="center">
-<a href="Screenshots/Sysmon_logs.png">
-<img src="Screenshots/Sysmon_logs.png" width="700">
+<a href="Screenshots/Sysmon_logs .png">
+<img src="Screenshots/Sysmon_logs .png" width="700">
 </a>
 </p>
 
