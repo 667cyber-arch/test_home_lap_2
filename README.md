@@ -27,7 +27,7 @@ This environment was built using a three-node physical hardware setup to accurat
 * Successfully detected and logged the Nmap scans and inbound attack traffic in real-time using the custom Scapy-based Python IDS running on the bridged monitoring node.
 
 ##  Full Technical Documentation
-> ** [Click Here to Read the Full Lab Execution & Architecture Report](Home_Lab_Documentation.md)**
+> ** [Click Here to Read the Full Lab Execution & Architecture Report](Home_Lab/Home_Lab_Documentation.md)**
 
 *(The full report includes detailed network topology diagrams, Layer 2 bridging configuration steps, raw Python exploit/IDS code, and execution screenshots).*
 
