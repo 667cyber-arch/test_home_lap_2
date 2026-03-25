@@ -32,6 +32,6 @@ This environment was built using a three-node physical hardware setup to accurat
 *(The full report includes detailed network topology diagrams, Layer 2 bridging configuration steps, raw Python exploit/IDS code, and execution screenshots).*
 
 ---
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pashtrik-shabani-93928b31b/)
 ## ⚠️ Disclaimer
 *This lab environment is strictly for educational purposes within an isolated and controlled network. The specific IP addresses, MAC addresses, and gateway details have been obfuscated to protect the integrity of the local network. Do not execute these tools against live or production environments.*
